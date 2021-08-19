@@ -13,7 +13,7 @@ syscalls, which correspond to starting a new processes:
 These examples are a companion to the [BPF ring buffer blog
 post](https://nakryiko.com/posts/bpf-ringbuf/).
 
-[中文翻译](https://www.ebpf.top/post/bpf_ring_buffer/)
+[BPF 环形缓冲区](https://www.ebpf.top/post/bpf_ring_buffer/) 中文翻译
 
 
 # Building & running
